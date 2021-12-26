@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashkar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently flutter
+- 🌱 I’m currently learning flutter
 
 <!---
 ashkarashku1/ashkarashku1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
